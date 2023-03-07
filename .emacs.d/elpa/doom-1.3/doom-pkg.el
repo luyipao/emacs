@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "doom" "1.3" "DOM implementation and manipulation library" '((cl-lib "0.5")) :commit "5e2d3f54e5b84eaa533cbdb6cf17b1b6009f0730" :authors '(("Alex Schroeder" . "alex@gnu.org") ("Henrik.Motakef" . "elisp@henrik-motakef.de") ("Katherine Whitlock" . "toroidal-code@gmail.com")) :maintainer '("Katherine Whitlock") :keywords '("xml" "doom") :url "http://www.github.com/toroidal-code/doom.el/")
